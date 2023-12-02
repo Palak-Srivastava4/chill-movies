@@ -1,0 +1,51 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: rgb(251, 251, 251);
+}
+
+.App {
+  text-align: center;
+  background-color: hsl(334, 18%, 17%);
+  color: #282c34;
+  min-height: 100vh;
+}
+#Header{
+  height: 95px;
+  width: 100%;
+  background-color: rgb(123, 69, 112);
+  display: flex;
+  align-items: center;
+  padding:30px;
+  gap: 40px;
+  position: absolute;
+  justify-content: flex-start;
+}
+#Header img{
+  height: 75px;
+}
+
+.main{
+  background-color:  rgba(21, 18, 18, 0.556);
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-top:0px;
+}
+
+#movies{
+  padding: 10px;
+  margin: 20px;
+  font-size: 22px;
+  font-weight: 800;
+  width: 22%;
+  margin-top: 100px;
+}
+#movies img{
+  margin-bottom: 10px;
+  width: 100%;
+  height: 200px;
+}
