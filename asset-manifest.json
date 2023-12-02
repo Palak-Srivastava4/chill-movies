@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chill-movies/static/css/main.1f82b3e8.css",
+    "main.js": "/chill-movies/static/js/main.919af23e.js",
+    "static/js/787.7a307964.chunk.js": "/chill-movies/static/js/787.7a307964.chunk.js",
+    "index.html": "/chill-movies/index.html",
+    "main.1f82b3e8.css.map": "/chill-movies/static/css/main.1f82b3e8.css.map",
+    "main.919af23e.js.map": "/chill-movies/static/js/main.919af23e.js.map",
+    "787.7a307964.chunk.js.map": "/chill-movies/static/js/787.7a307964.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f82b3e8.css",
+    "static/js/main.919af23e.js"
+  ]
+}
